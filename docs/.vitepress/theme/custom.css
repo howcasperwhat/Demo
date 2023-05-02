@@ -1,0 +1,21 @@
+* {
+  transition: background-color 0s !important;
+}
+
+div.content {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+div.content-body {
+  background: transparent !important;
+}
+
+div#VPContent {
+  padding-top: 0 !important;
+}
+
+div.curtain,
+div.curtain::before {
+  display: none !important;
+}
