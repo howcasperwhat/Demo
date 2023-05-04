@@ -13,6 +13,7 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.16",
     "@iconify-json/mdi": "^1.1.50",
+    "@types/nprogress": "^0.2.0",
     "naive-ui": "^2.34.3",
     "unocss": "^0.51.8",
     "vitepress": "^1.0.0-alpha.75",
@@ -20,6 +21,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.1.2",
-    "markdown-it-mathjax3": "^4.3.2"
+    "markdown-it-mathjax3": "^4.3.2",
+    "nprogress": "^0.2.0"
   }
 }

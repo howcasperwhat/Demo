@@ -54,7 +54,7 @@ export default defineConfig({
       copyright: 'Copyright © 2023-present Casper Huang.'
     },
     socialLinks: [
-      { icon: "github", link: "www.howcasperwhat.github.io/Demo" }
+      { icon: "github", link: "https://github.com/howcasperwhat/Demo" }
     ]
   },
 })
