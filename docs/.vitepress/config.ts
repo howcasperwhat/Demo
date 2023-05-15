@@ -35,7 +35,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    siteTitle: 'Demo Note',
+    siteTitle: 'Demo',
     logo: 'img/logo.png',
     outline: false,
     sidebar: [
